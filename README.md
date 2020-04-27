@@ -1,4 +1,4 @@
-# Mathematical_Curiosities
+# Mathematical Curiosities
 
 ![](img/Kronecker_Delta.png)
 
